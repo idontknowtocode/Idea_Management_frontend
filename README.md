@@ -23,7 +23,7 @@ Application to manage and give wings to your ideas
 
 5. The project should now be running locally!
 
-<a href="">API</a>
+API : <a href="https://github.com/idontknowtocode/Idea_Management_API">Idea Management API</a>
 
 
 ## Built With
