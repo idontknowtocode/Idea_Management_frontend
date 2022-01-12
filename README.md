@@ -1,5 +1,6 @@
 <a href="https://github.com/MohanChhabaria">Other projects can be seen here</a>
 
+It is not deployed yet due to some system failure. Coming Soon!!
 
 # Idea Management System
 
