@@ -1,5 +1,6 @@
 <a href="https://github.com/MohanChhabaria">Other projects can be seen here</a>
 
+
 # Idea Management System
 
 Application to manage and give wings to your ideas
@@ -22,27 +23,7 @@ Application to manage and give wings to your ideas
 
 5. The project should now be running locally!
 
-
-## Project Setup(API)
-
-1. Open a new terminal and follow the below mentioned commands
-
- * cd backend
-
- * pipenv shell
-
- * pipenv install -r requirements.txt
-
- * cd idea_manager
-
- * py manage.py makemigrations
-
- * py manage.py migrate
-
- * py manage.py runserver
-
-2. The project should now be running locally on port 8000!
-
+<a href="">API</a>
 
 
 ## Built With
