@@ -1,6 +1,5 @@
 import NavBar from "./navbar";
 import Main from "./main";
-import IdeaList from "./idealist";
 
 function App() {
   return (
